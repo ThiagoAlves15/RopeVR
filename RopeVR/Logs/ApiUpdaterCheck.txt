@@ -1,0 +1,420 @@
+[api-updater (non-obsolete-error-filter)] 05/08/2021 14:33:07 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 383,914ms
+moved types parse time: 41ms
+candidates parse time : 1ms
+C# parse time         : 246ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/08/2021 16:04:04 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 65,0132ms
+moved types parse time: 39ms
+candidates parse time : 0ms
+C# parse time         : 158ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/08/2021 16:05:27 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55,0124ms
+moved types parse time: 40ms
+candidates parse time : 1ms
+C# parse time         : 163ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/08/2021 16:11:25 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55,0119ms
+moved types parse time: 38ms
+candidates parse time : 1ms
+C# parse time         : 156ms
+candidates check time : 87ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/08/2021 16:13:44 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 54,012ms
+moved types parse time: 38ms
+candidates parse time : 1ms
+C# parse time         : 160ms
+candidates check time : 84ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/08/2021 16:16:49 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 56,0107ms
+moved types parse time: 39ms
+candidates parse time : 1ms
+C# parse time         : 152ms
+candidates check time : 66ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/08/2021 16:18:56 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 54,0124ms
+moved types parse time: 39ms
+candidates parse time : 1ms
+C# parse time         : 157ms
+candidates check time : 59ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 10:16:56 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 91,0202ms
+moved types parse time: 39ms
+candidates parse time : 1ms
+C# parse time         : 159ms
+candidates check time : 49ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 10:16:57 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 53,0116ms
+moved types parse time: 38ms
+candidates parse time : 0ms
+C# parse time         : 152ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 10:20:59 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 58,014ms
+moved types parse time: 45ms
+candidates parse time : 0ms
+C# parse time         : 161ms
+candidates check time : 49ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 10:22:15 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55,0108ms
+moved types parse time: 38ms
+candidates parse time : 0ms
+C# parse time         : 158ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 10:23:10 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 53,011ms
+moved types parse time: 38ms
+candidates parse time : 0ms
+C# parse time         : 141ms
+candidates check time : 25ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 11:05:40 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 57,0115ms
+moved types parse time: 38ms
+candidates parse time : 1ms
+C# parse time         : 145ms
+candidates check time : 30ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 11:21:15 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55,0113ms
+moved types parse time: 38ms
+candidates parse time : 0ms
+C# parse time         : 146ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 11:21:48 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 54,0126ms
+moved types parse time: 39ms
+candidates parse time : 1ms
+C# parse time         : 152ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 11:26:36 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 54,0114ms
+moved types parse time: 38ms
+candidates parse time : 1ms
+C# parse time         : 155ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 14:06:16 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 435,0965ms
+moved types parse time: 38ms
+candidates parse time : 1ms
+C# parse time         : 154ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 14:06:20 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 53,0123ms
+moved types parse time: 38ms
+candidates parse time : 0ms
+C# parse time         : 141ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 14:06:33 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55,0126ms
+moved types parse time: 39ms
+candidates parse time : 0ms
+C# parse time         : 144ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 14:07:02 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55,0129ms
+moved types parse time: 39ms
+candidates parse time : 1ms
+C# parse time         : 141ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 14:07:05 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55,585ms
+moved types parse time: 39ms
+candidates parse time : 1ms
+C# parse time         : 146ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 14:07:47 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55,0122ms
+moved types parse time: 38ms
+candidates parse time : 0ms
+C# parse time         : 140ms
+candidates check time : 31ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 14:15:26 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 57,013ms
+moved types parse time: 39ms
+candidates parse time : 1ms
+C# parse time         : 131ms
+candidates check time : 18ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 14:15:37 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 54,0123ms
+moved types parse time: 38ms
+candidates parse time : 0ms
+C# parse time         : 127ms
+candidates check time : 19ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 15:10:45 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 59,0126ms
+moved types parse time: 39ms
+candidates parse time : 1ms
+C# parse time         : 183ms
+candidates check time : 30ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 18:01:54 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 58,013ms
+moved types parse time: 38ms
+candidates parse time : 0ms
+C# parse time         : 130ms
+candidates check time : 28ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 18:05:08 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55,0129ms
+moved types parse time: 39ms
+candidates parse time : 1ms
+C# parse time         : 134ms
+candidates check time : 21ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 18:09:10 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55,0113ms
+moved types parse time: 38ms
+candidates parse time : 1ms
+C# parse time         : 141ms
+candidates check time : 21ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 18:09:18 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 57,0138ms
+moved types parse time: 39ms
+candidates parse time : 1ms
+C# parse time         : 142ms
+candidates check time : 22ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 18:12:04 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 54,0119ms
+moved types parse time: 39ms
+candidates parse time : 0ms
+C# parse time         : 136ms
+candidates check time : 19ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 19:27:25 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 574,802ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 171ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 20:18:59 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 65,0281ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 175ms
+candidates check time : 27ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 20:55:23 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 65,0277ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 212ms
+candidates check time : 25ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 22:09:59 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 66,0284ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 170ms
+candidates check time : 24ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 22:36:35 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62,0264ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 176ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 06/08/2021 22:36:52 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 61,27ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 174ms
+candidates check time : 40ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 07/08/2021 10:32:35 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 467,6066ms
+moved types parse time: 40ms
+candidates parse time : 1ms
+C# parse time         : 152ms
+candidates check time : 20ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 07/08/2021 11:38:58 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 61,0137ms
+moved types parse time: 39ms
+candidates parse time : 1ms
+C# parse time         : 194ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 07/08/2021 11:56:41 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 54,013ms
+moved types parse time: 38ms
+candidates parse time : 0ms
+C# parse time         : 143ms
+candidates check time : 30ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 07/08/2021 12:00:39 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55,016ms
+moved types parse time: 38ms
+candidates parse time : 1ms
+C# parse time         : 144ms
+candidates check time : 30ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 07/08/2021 15:12:39 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 61,0146ms
+moved types parse time: 40ms
+candidates parse time : 0ms
+C# parse time         : 149ms
+candidates check time : 31ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 07/08/2021 15:13:03 : Starting C:/Users/Zoi de Gato/Documents/Unity/2020.3.15f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 54,0116ms
+moved types parse time: 38ms
+candidates parse time : 1ms
+C# parse time         : 150ms
+candidates check time : 31ms
+console write time    : 0ms
+
